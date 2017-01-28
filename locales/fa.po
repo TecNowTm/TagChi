@@ -1,0 +1,136 @@
+﻿# Persian translations for GroupButler package.
+# Copyright (C) 2016 THE GroupButler'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the GroupButler package.
+# Nicholas Guriev <guriev-ns@ya.ru>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GroupButler 4.0\n"
+"Report-Msgid-Bugs-To: https://telegram.me/bac0nnn\n"
+"POT-Creation-Date: 2016-12-08 07:54+0100\n"
+"PO-Revision-Date: 2016-12-08 18:46+0330\n"
+"Last-Translator: Nicholas Guriev <guriev-ns@ya.ru>\n"
+"Language-Team: Persian\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: bot.lua:171
+msgid "🐞 Sorry, a *bug* occurred"
+msgstr "🐞 متاسفانه یک خطا رخ داده است"
+
+#: bot.lua:195
+#, lua-format
+msgid ""
+"\n"
+"Hello everyone!\n"
+"My name is %s, and I'm a bot made to help administrators in their hard work.\n"
+"Unfortunately I can't work in normal groups, please ask the creator to "
+"convert this group to a supergroup.\n"
+msgstr ""
+"\n"
+"سلام دوستان!\n"
+"من %s هستم، و من یک ربات هستم که بری کمک به مدیران گروه ساخته شده ام.\n"
+"متاسفانه من در گروه های معمولی کار نمیکنم، لطفا از مدیر گروه بخواهید تا گروه "
+"را تبدیل به یک ابر گروه یا سوپر گروه کند.\n"
+#: supergroup.lua:arabic
+msgid "Arabic"
+msgstr "عربی"
+#: supergroup.lua:1
+msgid "Settings"
+msgstr "تنظیمات"
+#: supergroup.lua:2
+msgid "message"
+msgstr "پیام"
+#: supergroup.lua:3
+msgid "Lock"
+msgstr "قفل"
+#: supergroup.lua:4
+msgid "group"
+msgstr "گروه"
+#: supergroup.lua:5
+msgid "from"
+msgstr "دربرابر"
+#: supergroup.lua:45
+msgid "member"
+msgstr "اعضا"
+#: supergroup.lua:46
+msgid "bot"
+msgstr "ربات"
+#: supergroup.lua:47
+msgid "yes"
+msgstr "بله"
+#: supergroup.lua:49
+msgid "no"
+msgstr "نه"
+#: supergroup.lua:4222
+msgid "warn"
+msgstr "اخطار"
+#: supergroup.lua:4333
+msgid "policy"
+msgstr "وضعیت"
+#: supergroup.lua:444
+msgid "protection"
+msgstr "حالت"
+#: supergroup.lua:455
+msgid "Welcome"
+msgstr "خوش امدگویی"
+#: supergroup.lua:4555
+msgid "message"
+msgstr "پیام"
+#: supergroup.lua:4555
+msgid "Spam"
+msgstr "اسپم"
+#: supergroup.lua:4555
+msgid "Sticker"
+msgstr "استیکر"
+#: supergroup.lua:4555 
+msgid "Gif"
+msgstr "انیمیشن"
+#: supergroup.lua:4555
+msgid "Fwd"
+msgstr "فروارد"
+#: supergroup.lua:4555
+msgid "Video"
+msgstr "فیلم"
+#: supergroup.lua:4555
+msgid "TG"
+msgstr "تیجی"
+#: supergroup.lua:4555
+msgid "link"
+msgstr "لینک"
+#: supergroup.lua:4555
+msgid "Photo"
+msgstr "عکس"
+#: addgp.lua:85
+msgid "*I am no longer administrating*"
+msgstr "گروه مورد نظر از لیست گروه های مدیریتی ربات حذف شد"
+#: addgp.lua:85
+msgid "<b>I do not administrate this group</b>"
+msgstr "من هم اکنون مدیر گروه نیستم"
+#: addgp.lua:85
+msgid "*I am already administrating Group*"
+msgstr "گروه شما به لیست گروه های مدیریتی ربات در امد"
+#: addgp.lua:85
+msgid "`NFS` *bot is now administrating Group*"
+msgstr "من هم اکنون گروه شما را محافظت میکنم"
+#: addgp.lua:85
+msgid " is already the group owner."
+msgstr " از قبل مدیر گروه شما بود"
+#: patttern.lua:85
+msgid "gadd"
+msgstr "تست"
+#: patttern.lua:85
+msgid " is now the group owner."
+msgstr " هم اکنون به مدیران گروه افزوده شد"
+#: patttern.lua:85
+msgid "*There are currently no listed owners.*"
+msgstr "هیچ مدیری برای گروه پیدا نشده است"
+#: patttern.lua:85
+msgid "owner(s):"
+msgstr " مدیران:"
+#: patttern.lua:85
+msgid " is not the group owner."
+msgstr " مدیر گروه نمی باشد"
